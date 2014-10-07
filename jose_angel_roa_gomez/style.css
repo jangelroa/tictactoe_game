@@ -1,0 +1,28 @@
+html {
+	background-color: #1785C2;
+}
+
+
+table {
+	margin: 30px auto;
+	max-width: 960px;
+
+}
+
+td {
+	width: 210px;
+	height: 210px;
+	background-color: #F2F2F2;
+	text-align: center;
+	border-radius: 200px;
+	font-size: 45px;
+}
+
+td:hover {
+	background-color: #CCC;
+}
+
+.set {
+	
+}
+
